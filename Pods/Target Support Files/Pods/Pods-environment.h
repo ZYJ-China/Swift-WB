@@ -1,0 +1,116 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// AFNetworking
+#define COCOAPODS_POD_AVAILABLE_AFNetworking
+#define COCOAPODS_VERSION_MAJOR_AFNetworking 3
+#define COCOAPODS_VERSION_MINOR_AFNetworking 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking 0
+
+// AFNetworking/NSURLSession
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_NSURLSession
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_NSURLSession 3
+#define COCOAPODS_VERSION_MINOR_AFNetworking_NSURLSession 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking_NSURLSession 0
+
+// AFNetworking/Reachability
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Reachability
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Reachability 3
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Reachability 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Reachability 0
+
+// AFNetworking/Security
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Security
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Security 3
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Security 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Security 0
+
+// AFNetworking/Serialization
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Serialization
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Serialization 3
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Serialization 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Serialization 0
+
+// AFNetworking/UIKit
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_UIKit
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_UIKit 3
+#define COCOAPODS_VERSION_MINOR_AFNetworking_UIKit 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking_UIKit 0
+
+// AsyncDisplayKit
+#define COCOAPODS_POD_AVAILABLE_AsyncDisplayKit
+#define COCOAPODS_VERSION_MAJOR_AsyncDisplayKit 1
+#define COCOAPODS_VERSION_MINOR_AsyncDisplayKit 9
+#define COCOAPODS_VERSION_PATCH_AsyncDisplayKit 80
+
+// AsyncDisplayKit/ASDealloc2MainObject
+#define COCOAPODS_POD_AVAILABLE_AsyncDisplayKit_ASDealloc2MainObject
+#define COCOAPODS_VERSION_MAJOR_AsyncDisplayKit_ASDealloc2MainObject 1
+#define COCOAPODS_VERSION_MINOR_AsyncDisplayKit_ASDealloc2MainObject 9
+#define COCOAPODS_VERSION_PATCH_AsyncDisplayKit_ASDealloc2MainObject 80
+
+// AsyncDisplayKit/Core
+#define COCOAPODS_POD_AVAILABLE_AsyncDisplayKit_Core
+#define COCOAPODS_VERSION_MAJOR_AsyncDisplayKit_Core 1
+#define COCOAPODS_VERSION_MINOR_AsyncDisplayKit_Core 9
+#define COCOAPODS_VERSION_PATCH_AsyncDisplayKit_Core 80
+
+// AsyncDisplayKit/PINRemoteImage
+#define COCOAPODS_POD_AVAILABLE_AsyncDisplayKit_PINRemoteImage
+#define COCOAPODS_VERSION_MAJOR_AsyncDisplayKit_PINRemoteImage 1
+#define COCOAPODS_VERSION_MINOR_AsyncDisplayKit_PINRemoteImage 9
+#define COCOAPODS_VERSION_PATCH_AsyncDisplayKit_PINRemoteImage 80
+
+// MBProgressHUD
+#define COCOAPODS_POD_AVAILABLE_MBProgressHUD
+#define COCOAPODS_VERSION_MAJOR_MBProgressHUD 0
+#define COCOAPODS_VERSION_MINOR_MBProgressHUD 9
+#define COCOAPODS_VERSION_PATCH_MBProgressHUD 2
+
+// PINCache
+#define COCOAPODS_POD_AVAILABLE_PINCache
+#define COCOAPODS_VERSION_MAJOR_PINCache 2
+#define COCOAPODS_VERSION_MINOR_PINCache 2
+#define COCOAPODS_VERSION_PATCH_PINCache 2
+
+// PINRemoteImage/Core
+#define COCOAPODS_POD_AVAILABLE_PINRemoteImage_Core
+#define COCOAPODS_VERSION_MAJOR_PINRemoteImage_Core 3
+#define COCOAPODS_VERSION_MINOR_PINRemoteImage_Core 0
+#define COCOAPODS_VERSION_PATCH_PINRemoteImage_Core 0
+
+// PINRemoteImage/iOS
+#define COCOAPODS_POD_AVAILABLE_PINRemoteImage_iOS
+#define COCOAPODS_VERSION_MAJOR_PINRemoteImage_iOS 3
+#define COCOAPODS_VERSION_MINOR_PINRemoteImage_iOS 0
+#define COCOAPODS_VERSION_PATCH_PINRemoteImage_iOS 0
+
+// SDAutoLayout
+#define COCOAPODS_POD_AVAILABLE_SDAutoLayout
+#define COCOAPODS_VERSION_MAJOR_SDAutoLayout 2
+#define COCOAPODS_VERSION_MINOR_SDAutoLayout 1
+#define COCOAPODS_VERSION_PATCH_SDAutoLayout 1
+
+// SDCycleScrollView
+#define COCOAPODS_POD_AVAILABLE_SDCycleScrollView
+#define COCOAPODS_VERSION_MAJOR_SDCycleScrollView 1
+#define COCOAPODS_VERSION_MINOR_SDCycleScrollView 65
+#define COCOAPODS_VERSION_PATCH_SDCycleScrollView 0
+
+// SDWebImage
+#define COCOAPODS_POD_AVAILABLE_SDWebImage
+#define COCOAPODS_VERSION_MAJOR_SDWebImage 3
+#define COCOAPODS_VERSION_MINOR_SDWebImage 8
+#define COCOAPODS_VERSION_PATCH_SDWebImage 1
+
+// SDWebImage/Core
+#define COCOAPODS_POD_AVAILABLE_SDWebImage_Core
+#define COCOAPODS_VERSION_MAJOR_SDWebImage_Core 3
+#define COCOAPODS_VERSION_MINOR_SDWebImage_Core 8
+#define COCOAPODS_VERSION_PATCH_SDWebImage_Core 1
+

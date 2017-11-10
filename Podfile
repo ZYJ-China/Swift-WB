@@ -1,0 +1,6 @@
+pod 'AFNetworking', '~> 3.0'
+pod 'MBProgressHUD', '~> 0.9.2'
+pod 'SDWebImage', '~>3.7'
+pod 'SDCycleScrollView','~> 1.61'
+pod 'SDAutoLayout', '~> 2.1.1'
+pod 'AsyncDisplayKit'

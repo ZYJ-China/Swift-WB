@@ -1,0 +1,2 @@
+PODS_ASYNCDISPLAYKIT_GCC_PREPROCESSOR_DEFINITIONS = $(inherited) PIN_REMOTE_IMAGE=1
+PODS_ASYNCDISPLAYKIT_OTHER_LDFLAGS = -l"c++" -framework "AssetsLibrary" -weak_framework "MapKit" -weak_framework "Photos"
